@@ -13,7 +13,6 @@ I'm a Junior Data Engineer passionate about transforming data into valuable insi
 
 - Data Engineering: data pipelines, data modeling, Loading...
 - Programming: Python, SQL, , C 
-- Big Data: Hadoop, Spark basics ( working on that )
 - Databases: MySQL, MongoDB
 - Tools: Git, Jupyter Notebook
 - Cloud: AWS (Certified cloud practioner)
