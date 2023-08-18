@@ -23,19 +23,19 @@ I'm a Junior Data Engineer passionate about transforming data into valuable insi
 ### [Akkanto Semantic Search]
 Scraping data and creating a pipeline to be used in a semantic ML search Model. 
 
-### [Data-Tank]
+### Data-Tank
 Scraping various local Belgian journals 
 Creating pipeline schedule for the whole process 
 Host the data in a Mongodb 
 
-### [Vinio Wine Market]
+### Vinio Wine Market
 Analysis of the wine market via Vinio website using SQL queries 
 
-### [Dragonyte Brewery]
+### Dragonyte Brewery
 Data cleaning using pandas 
 Data Analysis and presentation using Tableau 
 
-### [Immo-web]
+### Immo-web
 Scrapping Immo-web website 
 Data cleaning using python and pandas. 
 Data analysis and visualizing using matplotlib and seaborn. 
@@ -46,6 +46,6 @@ Dockerize the API using Docker
 
 ## Let's Connect
 
-- LinkedIn: [[Your LinkedIn Profile URL](https://www.linkedin.com/in/mahmoud-hasan-34a279100/)https://www.linkedin.com/in/mahmoud-hasan-34a279100/]
+- LinkedIn: [https://www.linkedin.com/in/mahmoud-hasan-34a279100/]
 
 Feel free to reach out and connect! 🚀
