@@ -2,7 +2,7 @@
 
 ## 🎓 Computer Engineer | Data Engineer & Cybersecurity Enthusiast (BeCode Graduate)
 
-I hold a Bachelor's degree in Computer Engineering and Informatics, and I’m a Junior Data Engineer with a strong interest in cybersecurity, system security, and automation.
+I hold a Bachelor's degree in Computer Engineering and Informatics, and I have a strong interest in cybersecurity, Data Engineering, and automation.
 
 I enjoy building practical systems that process data, improve visibility, and strengthen security in real environments.
 
