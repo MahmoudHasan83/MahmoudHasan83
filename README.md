@@ -23,6 +23,7 @@ I enjoy building practical systems that process data, improve visibility, and st
 - Python (Data Engineering & Cybersecurity tooling)
 - SQL
 - Bash scripting
+- Powershell
 - C (basic systems programming)
 
 ### 📊 Data Engineering
@@ -31,7 +32,6 @@ I enjoy building practical systems that process data, improve visibility, and st
 - Data modeling
 - MongoDB, MySQL
 - Pandas, NumPy
-- Tableau (data visualization)
 
 ### 🛡️ Cybersecurity
 - Network security fundamentals
@@ -53,32 +53,6 @@ I enjoy building practical systems that process data, improve visibility, and st
 ---
 
 ## 📂 Projects
-
-### 📊 Data Engineering Projects
-
-**🧠 Akkanto Semantic Search**
-- Built scraping and data pipeline system for semantic search and research use cases
-
-**🗞️ Data-Tank**
-- Scraped Belgian news sources
-- Built scheduled data pipelines
-- Stored structured datasets in MongoDB
-
-**🍷 Vinio Wine Market Analysis**
-- SQL-based analysis of wine market data
-
-**🍺 Dragonyte Brewery Analysis**
-- Data cleaning with Pandas
-- Data visualization using Tableau
-
-**🏠 Immo-Web Real Estate Project**
-- Web scraping and data cleaning pipeline
-- Data analysis with Pandas, Matplotlib, Seaborn
-- Machine learning model (Linear Regression)
-- API deployment using FastAPI
-- Containerized with Docker
-
----
 
 ### 🛡️ Cybersecurity Projects
 
@@ -106,6 +80,32 @@ I enjoy building practical systems that process data, improve visibility, and st
 - Performed system and network security audit
 - Identified vulnerabilities and weaknesses
 - Proposed mitigation strategies aligned with security best practices
+
+---
+
+### 📊 Data Engineering Projects
+
+**🧠 Akkanto Semantic Search**
+- Built scraping and data pipeline system for semantic search and research use cases
+
+**🗞️ Data-Tank**
+- Scraped Belgian news sources
+- Built scheduled data pipelines
+- Stored structured datasets in MongoDB
+
+**🍷 Vinio Wine Market Analysis**
+- SQL-based analysis of wine market data
+
+**🍺 Dragonyte Brewery Analysis**
+- Data cleaning with Pandas
+- Data visualization using Tableau
+
+**🏠 Immo-Web Real Estate Project**
+- Web scraping and data cleaning pipeline
+- Data analysis with Pandas, Matplotlib, Seaborn
+- Machine learning model (Linear Regression)
+- API deployment using FastAPI
+- Containerized with Docker
 
 ---
 
