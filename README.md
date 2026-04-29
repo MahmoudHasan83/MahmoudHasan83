@@ -1,18 +1,19 @@
 # 👋 Hi there, I'm Mahmoud Hasan
 
-## 🔭 Data Engineer & Cybersecurity Enthusiast (BeCode Graduate)
+## 🎓 Computer Engineer | Data Engineer & Cybersecurity Enthusiast (BeCode Graduate)
 
-I’m a Junior Data Engineer with a strong interest in **cybersecurity, data pipelines, and security automation**.  
-I enjoy building systems that turn raw data into insights and help improve security visibility.
+I hold a Bachelor's degree in Computer Engineering and Informatics, and I’m a Junior Data Engineer with a strong interest in cybersecurity, system security, and automation.
+
+I enjoy building practical systems that process data, improve visibility, and strengthen security in real environments.
 
 ---
 
-## 🧠 What I'm currently working on
+## 🧠 Focus Areas
 
-- 🔭 Building data pipelines and scraping systems for research and analytics platforms  
-- 🔐 Developing cybersecurity tools (HIDS, port scanners, log analysis scripts)  
-- 🌱 Learning workflow orchestration with **Airflow** and scalable data pipelines  
-- 🛡️ Designing secure environments using Windows Server and Active Directory  
+- 🔐 Cybersecurity projects: HIDS, network security design, Active Directory security, port scanning
+- 🪟 Windows Server administration and system hardening
+- 📡 Security monitoring, detection concepts, and log analysis
+- 📊 Data engineering foundations: scraping, pipelines, and data processing (past experience)
 
 ---
 
@@ -25,21 +26,22 @@ I enjoy building systems that turn raw data into insights and help improve secur
 - C (basic systems programming)
 
 ### 📊 Data Engineering
-- Data pipelines (ETL/ELT)
+- Data pipelines (ETL concepts)
 - Web scraping (BeautifulSoup, Selenium)
 - Data modeling
 - MongoDB, MySQL
 - Pandas, NumPy
-- Tableau (visualization)
+- Tableau (data visualization)
 
 ### 🛡️ Cybersecurity
 - Network security fundamentals
-- Log analysis & monitoring
-- HIDS (Host-based Intrusion Detection Systems)
+- Host-based Intrusion Detection Systems (HIDS)
+- Log analysis & system monitoring
 - Port scanning & network reconnaissance (Python)
 - Active Directory security & administration
-- Windows Server security hardening
+- Windows Server 2025 administration & hardening
 - PowerShell automation
+- Security auditing & vulnerability analysis
 
 ### ⚙️ Tools & DevOps
 - Git & GitHub
@@ -52,53 +54,58 @@ I enjoy building systems that turn raw data into insights and help improve secur
 
 ## 📂 Projects
 
-### 🧠 Data Engineering Projects
+### 📊 Data Engineering Projects
 
-**📊 Akkanto Semantic Search**
-- Built a scraping and data pipeline system for semantic ML search applications
+**🧠 Akkanto Semantic Search**
+- Built scraping and data pipeline system for semantic search and research use cases
 
 **🗞️ Data-Tank**
 - Scraped Belgian news sources
-- Built scheduled pipelines and stored structured data in MongoDB
+- Built scheduled data pipelines
+- Stored structured datasets in MongoDB
 
 **🍷 Vinio Wine Market Analysis**
-- SQL-based market analysis of wine datasets
+- SQL-based analysis of wine market data
 
 **🍺 Dragonyte Brewery Analysis**
 - Data cleaning with Pandas
-- Visualization with Tableau
+- Data visualization using Tableau
 
 **🏠 Immo-Web Real Estate Project**
-- Web scraping + data cleaning
-- Data analysis (Matplotlib, Seaborn)
-- Machine learning prediction model (Linear Regression)
-- FastAPI deployment
-- Dockerized application
+- Web scraping and data cleaning pipeline
+- Data analysis with Pandas, Matplotlib, Seaborn
+- Machine learning model (Linear Regression)
+- API deployment using FastAPI
+- Containerized with Docker
 
 ---
 
 ### 🛡️ Cybersecurity Projects
 
-**🔍 HIDS (Host-based Intrusion Detection System)**
-- Built using Bash scripting
-- Monitors system-level activity and logs suspicious behavior
+**🔍 Host-Based Intrusion Detection System (HIDS)**
+- Developed using Bash scripting
+- Monitors system activity and detects suspicious behavior
+- Logs security events for analysis
 
 **🌐 Network Design Project (Cisco Packet Tracer)**
-- Designed and simulated secure enterprise network architecture
+- Designed enterprise network topology
 - Implemented segmentation and routing strategies
+- Simulated secure network environments
 
 **🪟 Active Directory Secure Environment**
-- Configured Windows Server environment
-- Implemented user management, policies, and security hardening
+- Configured Windows Server Active Directory
+- Managed users, groups, and policies
+- Implemented security hardening practices
 
 **🐍 Python Port Scanner**
-- Built a custom port scanner in Python
-- Detects open ports and basic service information
+- Built custom port scanner using Python
+- Detects open ports and identifies basic services
+- Demonstrates network reconnaissance techniques
 
-**📋 Audit & Security Analysis Project**
-- Performed system and network audit
-- Identified vulnerabilities and security weaknesses
-- Proposed mitigation strategies aligned with best practices
+**📋 Security Audit Project**
+- Performed system and network security audit
+- Identified vulnerabilities and weaknesses
+- Proposed mitigation strategies aligned with security best practices
 
 ---
 
@@ -109,7 +116,8 @@ I bake brownies that are allegedly Michelin-star level 🍫
 
 ## 📫 Let’s Connect
 
-Always open to collaborating on:
+I’m always open to collaborating on:
 - Cybersecurity projects
-- Data engineering pipelines
 - SOC / detection engineering ideas
+- Data engineering pipelines
+- Security automation tools
