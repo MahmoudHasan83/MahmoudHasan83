@@ -1,50 +1,115 @@
-### 🔭 Loading... Data Engineer/Scientist enthusiast @ Becode 
-# Hi there, I'm Mahmoud Hasan 👋
+# 👋 Hi there, I'm Mahmoud Hasan
 
-I'm a Junior Data Engineer passionate about transforming data into valuable insights. Welcome to my GitHub profile! 
+## 🔭 Data Engineer & Cybersecurity Enthusiast (BeCode Graduate)
 
-- 🔭 I’m currently working on scraping and creating pipeline to assisst datascientsts create contextual research platform
-- 🌱 I’m learning [Airflow and orchestrating pipelines]
-- 👯 I’m looking to collaborate on [Data science projects]
-- 😄 Pronouns: [TheMan]
-- ⚡ Fun fact: [My brownies are michelin Star level! ]
+I’m a Junior Data Engineer with a strong interest in **cybersecurity, data pipelines, and security automation**.  
+I enjoy building systems that turn raw data into insights and help improve security visibility.
 
-## Skills and Technologies
+---
 
-- Data Engineering: data pipelines, data modeling, Loading...
-- Programming: Python, SQL, , C 
-- Databases: MySQL, MongoDB
-- Tools: Git, Jupyter Notebook
-- Cloud: AWS (Certified cloud practioner)
+## 🧠 What I'm currently working on
 
-## Projects
+- 🔭 Building data pipelines and scraping systems for research and analytics platforms  
+- 🔐 Developing cybersecurity tools (HIDS, port scanners, log analysis scripts)  
+- 🌱 Learning workflow orchestration with **Airflow** and scalable data pipelines  
+- 🛡️ Designing secure environments using Windows Server and Active Directory  
 
-### [Akkanto Semantic Search]
-Scraping data and creating a pipeline to be used in a semantic ML search Model. 
+---
 
-### Data-Tank
-Scraping various local Belgian journals 
-Creating pipeline schedule for the whole process 
-Host the data in a Mongodb 
+## 🧰 Skills & Technologies
 
-### Vinio Wine Market
-Analysis of the wine market via Vinio website using SQL queries 
+### 💻 Programming
+- Python (Data Engineering & Cybersecurity tooling)
+- SQL
+- Bash scripting
+- C (basic systems programming)
 
-### Dragonyte Brewery
-Data cleaning using pandas 
-Data Analysis and presentation using Tableau 
+### 📊 Data Engineering
+- Data pipelines (ETL/ELT)
+- Web scraping (BeautifulSoup, Selenium)
+- Data modeling
+- MongoDB, MySQL
+- Pandas, NumPy
+- Tableau (visualization)
 
-### Immo-web
-Scrapping Immo-web website 
-Data cleaning using python and pandas. 
-Data analysis and visualizing using matplotlib and seaborn. 
-Creating prediction model using linear regression 
-Creating API using FastAPI for the ML prediction model 
-Dockerize the API using Docker 
+### 🛡️ Cybersecurity
+- Network security fundamentals
+- Log analysis & monitoring
+- HIDS (Host-based Intrusion Detection Systems)
+- Port scanning & network reconnaissance (Python)
+- Active Directory security & administration
+- Windows Server security hardening
+- PowerShell automation
 
+### ⚙️ Tools & DevOps
+- Git & GitHub
+- Docker
+- Jupyter Notebook
+- FastAPI
+- AWS (Certified Cloud Practitioner)
 
-## Let's Connect
+---
 
-- LinkedIn: [https://www.linkedin.com/in/mahmoud-hasan-34a279100/]
+## 📂 Projects
 
-Feel free to reach out and connect! 🚀
+### 🧠 Data Engineering Projects
+
+**📊 Akkanto Semantic Search**
+- Built a scraping and data pipeline system for semantic ML search applications
+
+**🗞️ Data-Tank**
+- Scraped Belgian news sources
+- Built scheduled pipelines and stored structured data in MongoDB
+
+**🍷 Vinio Wine Market Analysis**
+- SQL-based market analysis of wine datasets
+
+**🍺 Dragonyte Brewery Analysis**
+- Data cleaning with Pandas
+- Visualization with Tableau
+
+**🏠 Immo-Web Real Estate Project**
+- Web scraping + data cleaning
+- Data analysis (Matplotlib, Seaborn)
+- Machine learning prediction model (Linear Regression)
+- FastAPI deployment
+- Dockerized application
+
+---
+
+### 🛡️ Cybersecurity Projects
+
+**🔍 HIDS (Host-based Intrusion Detection System)**
+- Built using Bash scripting
+- Monitors system-level activity and logs suspicious behavior
+
+**🌐 Network Design Project (Cisco Packet Tracer)**
+- Designed and simulated secure enterprise network architecture
+- Implemented segmentation and routing strategies
+
+**🪟 Active Directory Secure Environment**
+- Configured Windows Server environment
+- Implemented user management, policies, and security hardening
+
+**🐍 Python Port Scanner**
+- Built a custom port scanner in Python
+- Detects open ports and basic service information
+
+**📋 Audit & Security Analysis Project**
+- Performed system and network audit
+- Identified vulnerabilities and security weaknesses
+- Proposed mitigation strategies aligned with best practices
+
+---
+
+## ⚡ Fun Fact
+I bake brownies that are allegedly Michelin-star level 🍫
+
+---
+
+## 📫 Let’s Connect
+
+Always open to collaborating on:
+- Cybersecurity projects
+- Data engineering pipelines
+- SOC / detection engineering ideas
